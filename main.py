@@ -49,3 +49,5 @@ milk_type = {"a": "latte", "b": "non-fat latte", "c": "soy latte"}
 
 # Call the program
 coffee_bot()
+
+#End
